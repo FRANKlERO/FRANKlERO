@@ -8,7 +8,7 @@
 <img width="125" height="180" alt="Untitled7_20261026153624" src="https://github.com/user-attachments/assets/8b7a4af6-5037-4159-b58b-d16c170b34cd" /
 
 <div align="center"> 
--15 dni please and thank you
+-15 dniuid please and thank you
 
 <div align="center"> 
   
