@@ -2,7 +2,7 @@
 ‎ 
 <div align="center"> 
 
-![](https://komarev.com/ghpvc/?username=coachdictatorer&color=blue&style=plastic&label=击)
+![](https://komarev.com/ghpvc/?username=coachdictatorer&color=black&style=plastic&label=击)
 
 <div align="center"> 
   
